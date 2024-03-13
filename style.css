@@ -1,0 +1,120 @@
+body {
+    background: #ffffff;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    color: #000;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+    padding: 20px 0 0;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    color-scheme: light only;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+
+table td {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.device-width {
+    width: 600px !important;
+}
+
+/* @media only screen and (max-width: 640px) {
+    .device-width {
+        width: 440px !important;
+    }
+
+    .table-grid table {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .mobile-padding {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    .padding-both td {
+        padding: 0 20px !important;
+        text-align: center !important;
+    }
+
+    .padding-both table {
+        width: 100% !important;
+    }
+
+    .padding-both td div {
+        padding-left: 0 !important;
+    }
+
+    .center {
+        text-align: center !important;
+    }
+
+    .footer-logo,
+    .footer-center,
+    .footer-right {
+        width: 100% !important;
+    }
+
+    .footer-logo td,
+    .footer-center td,
+    .footer-right td {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-bottom: 20px !important;
+        text-align: center !important;
+    }
+
+    .long-word {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .device-width {
+        width: 300px !important;
+    }
+
+    .small-data-table {
+        font-size: 10px !important;
+    }
+
+    .small-data-table th:first-child,
+    .small-data-table td:first-child {
+        padding-left: 0 !important;
+    }
+
+    .small-data-table th:last-child,
+    .small-data-table td:last-child {
+        padding-right: 0 !important;
+    }
+
+    .small-data-table th,
+    .small-data-table td {
+        padding-left: 3px !important;
+        padding-right: 3px !important;
+    }
+
+    .small-data-table tfoot td {
+        font-size: 12px !important;
+    }
+
+    .small-data-table tfoot td:first-child {
+        padding-right: 30px !important;
+    }
+}
+ */
